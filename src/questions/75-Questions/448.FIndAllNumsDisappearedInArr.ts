@@ -13,3 +13,5 @@ function findDisappearedNumbers(nums: number[]): number[] {
   console.log(nums);
   return arr;
 }
+
+findDisappearedNumbers([1, 1, 4, 2]);
