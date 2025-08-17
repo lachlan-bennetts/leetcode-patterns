@@ -1,4 +1,4 @@
-function maxProfit(prices: number[]): number {
+function findMaxProfit(prices: number[]): number {
   if (prices.length === 0) return 0;
 
   let minPrice = prices[0];
